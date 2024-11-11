@@ -1,0 +1,15 @@
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\bin\Debug\wpf5.exe.config
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\bin\Debug\wpf5.exe
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\bin\Debug\wpf5.pdb
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.csproj.AssemblyReference.cache
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\MainWindow.g.cs
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\App.g.cs
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5_MarkupCompile.cache
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5_MarkupCompile.lref
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\MainWindow.baml
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.g.resources
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.Properties.Resources.resources
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.csproj.GenerateResource.cache
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.csproj.CoreCompileInputs.cache
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.exe
+\\SPEK\PrePress\223-ПР\СТУДЕНТЫ\┬──┬ ノ( ゜-゜ノ)\wpf5\obj\Debug\wpf5.pdb
